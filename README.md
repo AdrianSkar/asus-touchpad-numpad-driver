@@ -1,4 +1,4 @@
-# Asus touchpad numpad driver
+# Asus touchpad numpad driver (without F8 trigger)
 
 | Without % = symbols             |  With % = symbols       |  With % = symbols (but incompatible with the non-universal version) |
 |:-------------------------:|:-------------------------:|:-------------------------:|
